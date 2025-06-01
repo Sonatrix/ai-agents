@@ -1,0 +1,7 @@
+README.md
+main.py
+pyproject.toml
+browser_agents.egg-info/PKG-INFO
+browser_agents.egg-info/SOURCES.txt
+browser_agents.egg-info/dependency_links.txt
+browser_agents.egg-info/top_level.txt
